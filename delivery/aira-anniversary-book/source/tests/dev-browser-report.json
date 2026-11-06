@@ -1,0 +1,129 @@
+{
+  "base": "http://localhost:5173",
+  "testedAt": "2026-11-06T07:47:05.891Z",
+  "browser": "Playwright Chromium",
+  "physicalDeviceTested": false,
+  "results": [
+    {
+      "name": "Cover renders with exact dedication and starts in Indonesian",
+      "passed": true
+    },
+    {
+      "name": "Hardcover opens to an actual first page",
+      "passed": true
+    },
+    {
+      "name": "Next, previous, keyboard arrows and desktop mouse drag work",
+      "passed": true
+    },
+    {
+      "name": "Chapter search and exact number navigation work",
+      "passed": true
+    },
+    {
+      "name": "All 200 pages render real content; counters and slider match",
+      "passed": true
+    },
+    {
+      "name": "Current page changes entirely to English without resetting position",
+      "passed": true
+    },
+    {
+      "name": "Bookmark, close, reopen, and reload preserve the real reading position",
+      "passed": true
+    },
+    {
+      "name": "Game 1: quiz scoring, wrong answer feedback, language retention and restart",
+      "passed": true
+    },
+    {
+      "name": "Game 2: all six memory pairs, move count, and restart",
+      "passed": true
+    },
+    {
+      "name": "Game 3: all emoji decode questions, real typed answers and restart",
+      "passed": true
+    },
+    {
+      "name": "Game 4: this-or-that choices produce an individual summary and restart",
+      "passed": true
+    },
+    {
+      "name": "Game 5: letter selection, all scramble words, checking and restart",
+      "passed": true
+    },
+    {
+      "name": "Game 6: hidden-heart search counts misses and all discoveries, then restarts",
+      "passed": true
+    },
+    {
+      "name": "Game 7: three typed guesses, feedback, completion and restart",
+      "passed": true
+    },
+    {
+      "name": "Game 8: real timeline reorder controls, validation and restart",
+      "passed": true
+    },
+    {
+      "name": "Game 9: heart taps, time lock, token puzzle, completion and restart",
+      "passed": true
+    },
+    {
+      "name": "All ten envelopes open distinct bilingual messages without losing open state",
+      "passed": true
+    },
+    {
+      "name": "Hidden heart notes and question answers persist through navigation and language changes",
+      "passed": true
+    },
+    {
+      "name": "Relationship timeline expands actual events and labels the future as a hope",
+      "passed": true
+    },
+    {
+      "name": "Guestbook saves, translates, exports, reloads, and deletes local notes",
+      "passed": true
+    },
+    {
+      "name": "Missing-photo spaces open the lightbox with captions and real previous/next controls",
+      "passed": true
+    },
+    {
+      "name": "All 50 JPEGs import, decode, preserve exact original names and persist locally",
+      "passed": true
+    },
+    {
+      "name": "All 50 photographs render across their assigned real book pages without repeats",
+      "passed": true
+    },
+    {
+      "name": "Imported photo lightbox loads the real image, preserves filename, and provides adjustable focal preview",
+      "passed": true
+    },
+    {
+      "name": "Personalised ZIP includes complete static site, all 50 actual imported bytes and exact manifest paths",
+      "passed": true
+    },
+    {
+      "name": "Final surprise displays exact required text and confetti can replay",
+      "passed": true
+    },
+    {
+      "name": "Optional sound toggle responds without auto-playing on first visit",
+      "passed": true
+    },
+    {
+      "name": "A nonexistent external photo falls back gracefully, including in lightbox",
+      "passed": true
+    },
+    {
+      "name": "iPhone-sized mobile layout, native swipe, interaction isolation, and no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "No uncaught JavaScript errors during the entire tested experience",
+      "passed": true
+    }
+  ],
+  "uncaughtErrors": []
+}

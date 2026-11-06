@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "photosLoaded": 50,
+  "photoPages": 35,
+  "sourceOriginalsIncluded": true,
+  "originalFilenameWithSpacesPreserved": true,
+  "focalPositionPersistsForStaticImages": true,
+  "secondGenerationExportPreservesAllBytes": true,
+  "uncaughtErrors": [],
+  "testImagesAreSynthetic": true
+}

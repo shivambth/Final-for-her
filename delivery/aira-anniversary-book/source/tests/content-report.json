@@ -1,0 +1,139 @@
+{
+  "checks": [
+    {
+      "name": "Exactly 200 populated pages with distinct IDs",
+      "passed": true
+    },
+    {
+      "name": "Chapter ranges cover each page exactly once",
+      "passed": true
+    },
+    {
+      "name": "50 unique reasons in both languages",
+      "passed": true
+    },
+    {
+      "name": "Every reason rendered exactly once",
+      "passed": true
+    },
+    {
+      "name": "Exact required afterword in English",
+      "passed": true
+    },
+    {
+      "name": "50 distinct photo slots, each intentionally placed once",
+      "passed": true
+    },
+    {
+      "name": "No invented original photo filenames or broken placeholder paths",
+      "passed": true
+    },
+    {
+      "name": "All nine distinct games occupy real pages",
+      "passed": true
+    },
+    {
+      "name": "Ten distinct bilingual envelopes occupy real pages",
+      "passed": true
+    },
+    {
+      "name": "12 complete bilingual letters, three individually rendered parts each",
+      "passed": true
+    },
+    {
+      "name": "Every Indonesian letter is 450-550 words",
+      "passed": true
+    },
+    {
+      "name": "No duplicated letter paragraphs in either language",
+      "passed": true
+    },
+    {
+      "name": "Required final surprise on page 200 in both languages",
+      "passed": true
+    }
+  ],
+  "letterCounts": [
+    {
+      "number": 1,
+      "title": "The night that became our beginning",
+      "id": 491,
+      "en": 551
+    },
+    {
+      "number": 2,
+      "title": "About us and Litmatch",
+      "id": 478,
+      "en": 536
+    },
+    {
+      "number": 3,
+      "title": "Ten days that were not tidy",
+      "id": 484,
+      "en": 543
+    },
+    {
+      "number": 4,
+      "title": "Why it became you",
+      "id": 488,
+      "en": 528
+    },
+    {
+      "number": 5,
+      "title": "A dictionary only we understand",
+      "id": 476,
+      "en": 521
+    },
+    {
+      "number": 6,
+      "title": "Our first call",
+      "id": 499,
+      "en": 587
+    },
+    {
+      "number": 7,
+      "title": "Learning to understand, not guess",
+      "id": 485,
+      "en": 541
+    },
+    {
+      "number": 8,
+      "title": "Moody, lazy, and still you",
+      "id": 481,
+      "en": 544
+    },
+    {
+      "number": 9,
+      "title": "Little things that turn out to matter",
+      "id": 496,
+      "en": 563
+    },
+    {
+      "number": 10,
+      "title": "When we finally meet",
+      "id": 502,
+      "en": 561
+    },
+    {
+      "number": 11,
+      "title": "For a day that feels heavy",
+      "id": 505,
+      "en": 570
+    },
+    {
+      "number": 12,
+      "title": "Four months, and a book",
+      "id": 501,
+      "en": 535
+    }
+  ],
+  "totals": {
+    "pages": 200,
+    "photos": 50,
+    "suppliedPhotoFiles": 0,
+    "reasons": 50,
+    "letters": 12,
+    "games": 9,
+    "envelopes": 10
+  }
+}
