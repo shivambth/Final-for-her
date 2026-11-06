@@ -1,0 +1,3 @@
+export function Confetti({ seed }: { seed: number }) {
+  return <div className="confetti" key={seed} aria-hidden="true">{Array.from({ length: 70 }, (_, i) => <i key={i} style={{ left: `${(i * 37 + 9) % 100}%`, background: ['#b99454','#8f5149','#e4ccb0','#6c7257','#ceab77'][i % 5], width: `${5 + i % 5}px`, height: `${8 + i % 6}px`, animationDelay: `${(i % 13) * .06}s`, animationDuration: `${2.7 + (i % 9) * .16}s`, '--drift': `${(i % 2 ? 1 : -1) * (35 + i % 90)}px`, '--rotation': `${(i * 73) % 720}deg` } as React.CSSProperties}/>)}</div>;
+}
