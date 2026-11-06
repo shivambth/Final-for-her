@@ -1,0 +1,4 @@
+No personal photographs or original filenames were supplied with the request.
+The book contains 50 intentionally distributed photo spaces, not 50 embedded photographs.
+Use the photo importer inside the book. It preserves all original JPEG filenames.
+Download a personalised ZIP from the photo manager to include your files in a static website.
